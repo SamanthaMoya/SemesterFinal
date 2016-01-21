@@ -1,8 +1,6 @@
 h1{
-	font-size: 15
-}
-h1 {
-	color: 5f4c3f
+	font-size: 15;
+	color: 5f4c3f;
 }
 /*h1 {
 	.right {
@@ -19,3 +17,34 @@ h1 {
  	width: auto;
  	height: auto;
  }
+body{
+	background-image: url(http://3.bp.blogspot.com/-3UIjuTrbAI8/Uihk5uaH_lI/AAAAAAAAAuk/gcn5XlQ9kyI/s640/Top+10+best+Simple+Awesome+Background+Images+for+Your+Website+or+Blog2.jpg);
+}
+
+.button {
+ display: block;
+ height: 100px;
+ width: 300px;
+ background: #5f4c3f;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: rgba(0, 0, 0, 0.55);
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+ a.button:hover {
+ background: #5f4c3f;
+ background: -webkit-linear-gradient(top, #3d7a80, #2f5f63);
+ background: -moz-linear-gradient(top, #3d7a80, #2f5f63);
+ background: -o-linear-gradient(top, #3d7a80, #2f5f63);
+ background: -ms-linear-gradient(top, #3d7a80, #2f5f63);
+ background: linear-gradient(top, #3d7a80, #2f5f63);
+}
+form {
+  display: inline;
+}
+
+div { padding: 10px; border: 1px ; }
+input { margin: 0; }
+h2{
+	color: 5f4c3f;
+	font: italic 90px "Helvetica Neue";
+}
